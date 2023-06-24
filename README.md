@@ -1,4 +1,4 @@
-# Shell
+# ByteShell
 ## ACMShell
 A basic CLI supporting the following UNIX commands:
 1. cd
